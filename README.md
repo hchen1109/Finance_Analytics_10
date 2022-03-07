@@ -49,4 +49,3 @@ To use the loan qualifier application simply clone the repository and run the fo
 ## Contributors
 
 Brought to you by Haoyu Chen
-# Finance_Analytics_10
